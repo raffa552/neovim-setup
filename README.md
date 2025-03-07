@@ -11,11 +11,13 @@ mkdir .config/nvim
 ```
 # feature
 These available features are designed for __python__
+```
 -- feature 
-• __terminal in neovim__
-• __lsp__
-• __Tab file__
-• __and others__
+• terminal in neovim
+• lsp
+• Tab file
+• and others
+```
 for other in neovim write
 ```
 :M
